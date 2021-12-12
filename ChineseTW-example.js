@@ -472,7 +472,7 @@ export default {
         Startup_Docker_Title: "Docker鏡像",
         Startup_Docker_Desc: "這是一項進階功能，允許您在運行此伺服器實例時選擇要使用的 Docker 映像。",
         Startup_Docker_Error: "此伺服器的 Docker 映像已由管理員手動設置，無法通過此 UI 更改。",
-        Startup_Variables_Title: "Variables",
+        Startup_Variables_Title: "啟動參數",
         Startup_Variables_Read: "只讀",
         Startup_Server_Error_Title: "Oops!",
       },
